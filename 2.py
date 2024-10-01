@@ -1,7 +1,6 @@
-num1 = int(input("введите первое число: "))
-num2 = int(input("введите второе число: "))
-result = num1 + num2
-prod = num1 * num2
-
-print("сумма: ", result)
-print("произведение: ", prod)
+num1 = int(input("Введите первое число: "))
+num2 = int(input("Введите второе число: "))
+sum_result = num1 + num2
+multiply_result = num1 * num2
+print("Результат сложения: ", sum_result)
+print("Результат умножения: ", multiply_result)

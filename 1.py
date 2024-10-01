@@ -1,5 +1,5 @@
-name = "Anton"
-age = 17
+name = "Ruslan"
+age = 18
 city = "Moscow"
 print(name)
 print(age)
